@@ -12,12 +12,14 @@
   and classifies them into four categories using a trained deep learning model.
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Healthcare-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge-FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge-TensorFlow-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Nishuyeole12/brain-tumor-detection-ml">
